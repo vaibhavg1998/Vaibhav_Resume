@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  17 APR 2019 02:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  17 APR 2019 02:40
 entering extended mode
 **./vaibhav_resume.tex
 (vaibhav_resume.tex
@@ -1123,23 +1123,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 [1
 
 {C:/Users/vaibh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./vaibhav_i
-mg.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
+mg.jpg>] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
  (vaibhav_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 55.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 55.
-Package rerunfilecheck Info: File `vaibhav_resume.out' has not changed.
-(rerunfilecheck)             Checksum: 5B2E137B622864A4ACC855AD6D2815BE;216.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
+
+
+Package rerunfilecheck Warning: File `vaibhav_resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `vaibhav_resume.out':
+(rerunfilecheck)             Before: 5B2E137B622864A4ACC855AD6D2815BE;216
+(rerunfilecheck)             After:  D25EF5272460922411EF3112F00DBFDD;300.
  ) 
 Here is how much of TeX's memory you used:
- 31022 strings out of 492902
- 579336 string characters out of 3123806
- 636631 words of memory out of 3000000
- 34509 multiletter control sequences out of 15000+200000
- 581477 words of font info for 76 fonts, out of 3000000 for 9000
+ 31041 strings out of 492902
+ 579534 string characters out of 3123806
+ 640631 words of memory out of 3000000
+ 34510 multiletter control sequences out of 15000+200000
+ 582083 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,65p,782b,332s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,11n,65p,782b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
 c}<C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss1
 0.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/l
@@ -1148,9 +1155,9 @@ lm/lmss17.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmsso10.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/lm/lmsso12.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/marvosym/marvosym.pfb>
-Output written on vaibhav_resume.pdf (1 page, 282269 bytes).
+Output written on vaibhav_resume.pdf (2 pages, 290969 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
+ 61 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
  19490 words of extra memory for PDF output out of 20736 (max. 10000000)
 
