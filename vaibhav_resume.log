@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  17 APR 2019 14:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  17 APR 2019 15:16
 entering extended mode
 **./vaibhav_resume.tex
 (vaibhav_resume.tex
@@ -896,28 +896,28 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip80
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 23.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 23.
+Package hyperref Info: Option `breaklinks' set `true' on input line 24.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 24.
  (vaibhav_resume.aux)
 \openout1 = `vaibhav_resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 24.
 
 ("C:\Users\vaibh\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -952,7 +952,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \microtypecontext on input line 23.
+LaTeX Info: Redefining \microtypecontext on input line 24.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -968,7 +968,7 @@ fg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 23.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 24.
  ("C:\Users\vaibh\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1012,7 +1012,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 24.
 
 ("C:\Users\vaibh\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1024,99 +1024,99 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count290
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
  (vaibhav_resume.out) (vaibhav_resume.out)
 \@outlinefile=\write4
 \openout4 = `vaibhav_resume.out'.
 
 \makecvheaddetailsbox=\box61
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 26.
 
 ("C:\Users\vaibh\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 25.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 26.
 
 ("C:\Users\vaibh\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 25.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 26.
 
 
 ("C:\Users\vaibh\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 25.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 26.
 
 
 ("C:\Users\vaibh\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 25.
+(Font)              <10> on input line 26.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 25.
+(Font)              <7> on input line 26.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 25.
+(Font)              <5> on input line 26.
 
 ("C:\Users\vaibh\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-mvs.c
 fg"
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvheadpicturebox=\box62
-<vaibhav_img.jpg, id=63, 801.74532pt x 925.20656pt>
+<vaibhav_img.jpg, id=59, 801.74532pt x 925.20656pt>
 File: vaibhav_img.jpg Graphic file (type jpg)
 <use vaibhav_img.jpg>
-Package pdftex.def Info: vaibhav_img.jpg  used on input line 25.
+Package pdftex.def Info: vaibhav_img.jpg  used on input line 26.
 (pdftex.def)             Requested size: 64.0pt x 73.84862pt.
 \makecvheaddetailswidth=\skip81
 \makecvheadpicturewidth=\skip82
 \makecvheadnamebox=\box63
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 25.
+(Font)              <10.95> on input line 26.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 25.
+(Font)              <8> on input line 26.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 25.
+(Font)              <6> on input line 26.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\T1/lmss/m/n/10.95 (+20) University/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \T1/lmss/m/n/10.95 (+20) Con-duct-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\T1/lmss/m/n/10.95 (+20) Passing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 []|\T1/lmss/m/n/10.95 (+20) Pass
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 \T1/lmss/m/n/10.95 (+20) Per-cent-
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 43--43
+Underfull \hbox (badness 1472) in paragraph at lines 44--44
 []|\T1/lmss/m/n/10.95 (+20) B.Tech, Com-puter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 []|\T1/lmss/m/n/10.95 (+20) Indraprastha
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
 []|\T1/lmss/m/n/10.95 (+20) Senior Sec-ondary
  []
 
@@ -1124,44 +1124,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 
 {C:/Users/vaibh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./vaibhav_i
 mg.jpg>] [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 176.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 176.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
  (vaibhav_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 176.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 176.
-
-
-Package rerunfilecheck Warning: File `vaibhav_resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `vaibhav_resume.out':
-(rerunfilecheck)             Before: E3D7D2465209912CB71F95C9DB4ED5DE;1653
-(rerunfilecheck)             After:  D9C04606D40AE762D8C1C091753867AA;1481.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
+Package rerunfilecheck Info: File `vaibhav_resume.out' has not changed.
+(rerunfilecheck)             Checksum: D9C04606D40AE762D8C1C091753867AA;1481.
  ) 
 Here is how much of TeX's memory you used:
- 31085 strings out of 492902
- 579976 string characters out of 3123806
- 640632 words of memory out of 3000000
- 34524 multiletter control sequences out of 15000+200000
+ 31083 strings out of 492902
+ 579952 string characters out of 3123806
+ 640674 words of memory out of 3000000
+ 34523 multiletter control sequences out of 15000+200000
  584851 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,65p,782b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.14} has been referenced but does not exi
-st, replaced by a fixed one
-
-{C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}
-<C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss10.
-pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lms
-s12.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm
-/lmss17.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/lm/lmssbx10.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/lm/lmsso10.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/lm/lmsso12.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/marvosym/marvosym.pfb>
-Output written on vaibhav_resume.pdf (3 pages, 323750 bytes).
+{C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
+c}<C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss1
+0.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/l
+mss12.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+lm/lmss17.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmssbx10.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmsso10.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/lm/lmsso12.pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on vaibhav_resume.pdf (3 pages, 324212 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
- 20098 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 20090 words of extra memory for PDF output out of 20736 (max. 10000000)
 
